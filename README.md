@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pyae Sone Phyo Thu</h1>
-<h3 align="center">A passionate Cyber Security Engineer and AI researcher</h3>
+<h3 align="center">A passionate Software Engineer and Cybersecurity researcher</h3>
 
 - 🌱 I’m currently learning **Penetration Testing, Threat Hunting and Digital Foresnics**
 
