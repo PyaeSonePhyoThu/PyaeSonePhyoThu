@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pyae Sone Phyo Thu</h1>
-<h3 align="center">A passionate Cybersecurity researcher and Penetration Tester</h3>
+<h3 align="center">A passionate Ethical Hacker and a Red Teamer</h3>
 
-- 🌱 I’m currently learning **Penetration Testing, Threat Hunting and Digital Foresnics**
+- 🌱 I’m currently learning *Application Security, Red Teaming and Exploit Development**
 
 - 📫 How to reach me **pyaesonephyothu.office@gmail.com**
 
